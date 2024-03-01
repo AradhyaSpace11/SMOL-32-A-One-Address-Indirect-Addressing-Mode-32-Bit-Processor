@@ -4,7 +4,8 @@ Scalable Modular One-address Logic-32 or SMOL-32 is a Processor designed on Logi
 Instruction format:
 First 3 bits specify address _ _ _ _ last bit specifies opcode
 
-Preview
+<span style="font-size:larger;">Preview.</span>
+
 
 ![Preview](SMOL-32.png)
 
